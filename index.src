@@ -2,38 +2,15 @@
 title: Workshop de Desenho Artístico
 ---
 
-<h1>
-  <span>Desenho artístico básico</span>
-  <div>
-    <small>Material de apoio</small>
-    </div>
-</h1>
+# Desenho artístico básico<div><small>Material de apoio</small></div>
 
-<p>
-<em>
-  Este material é meramente sugestivo. Existem diversas técnicas e maneiras de desenhar, e esta pequena apostila é uma sugestão de como começar. Se você não concordar com as ideias e exercícios aqui apresentados, sinta-se à vontade para não segui-los e até criticá-los. O intuito aqui é ensinar o básico da técnica do desenho artístico. Se achar que este material não cumpre esta função, por favor ajude a melhorá-lo com sugestões e críticas construtivas. Ele é aberto e 100% gratuito.
-</em>
-</p>
-<p>
-  Um jeito simples de contribuir é com issues no repositório:
-</p>
-  <p>
-  <a href="https://github.com/orenjiakira/drawing-workshop.git/">
-    &rarr; Github
-  </a>
-</p>
+_Este material é meramente sugestivo. Existem diversas técnicas e maneiras de desenhar, e esta pequena apostila é uma sugestão de como começar. Se você não concordar com as ideias e exercícios aqui apresentados, sinta-se à vontade para não segui-los e até criticá-los. O intuito aqui é ensinar o básico da técnica do desenho artístico. Se achar que este material não cumpre esta função, por favor ajude a melhorá-lo com sugestões e críticas construtivas. Ele é aberto e 100% gratuito._
 
+Um jeito simples de contribuir é com issues no repositório:
 
-<h3>Índice</h3>
-<ol>
-  <li>
-    <a href="0">
-      O que é desenhar
-    </a>
-  </li>
-  <li>
-    <a href="1">
-      Tonalidades
-    </a>
-  </li>
-</ol>
+[&rarr; Github](https://github.com/orenjiakira/drawing-workshop.git/)
+
+### Índice
+
+1. [O que é desenhar](0)
+2. [Tonalidades](1)
