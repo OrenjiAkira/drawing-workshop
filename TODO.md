@@ -25,6 +25,5 @@
 + [ ] Imprimir material para terceira aula
 + [ ] Escrever material complementar
 + [ ] Imprimir material complementar
-+ [ ] Subir repositório com material
-+ [ ] Fazer webpage com material
-
++ [x] Subir repositório com material
++ [x] Fazer webpage com material
