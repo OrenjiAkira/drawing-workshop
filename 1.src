@@ -42,7 +42,7 @@ Recomendo reproduzir esses retângulos num papel de sua preferência para fazer 
 
 Mais uma coisa: esse exercício tem utilidade prática! Imagine que você está desenhando, e começa a fazer sombra. Aí você sai escurescendo as partes mais escuras aos poucos. Mas algo está estranho! Esses dois tons escuros diferentes são próximos, e você não consigo distingui-los!
 
-Bem, dado um material, você consegue um espectro de tonalidades. Num papel separado, você pode criar uma tabela de referência de tonalidades. Isso funciona para cor, para preto-e-branco, para tudo! Aí quando você tiver dúvida, você pega a tabela e compara as cores do seu desenho com a tabela. Isso garante que você está usando o tom certo… ou ao menos usando o tom que parecia certo quando você fez a tabela.
+Bem, dado um material, você consegue um espectro de tonalidades. Num papel separado, você pode criar uma **tabela de referência de tonalidades**. Isso funciona para cor, para preto-e-branco, para tudo! Aí quando você tiver dúvida, você pega a tabela e compara as cores do seu desenho com a tabela. Isso garante que você está usando o tom certo… ou ao menos usando o tom que parecia certo quando você fez a tabela.
 
 #### Dica: traços curtos e retos
 
@@ -66,7 +66,7 @@ Você escolheu quais cores? Você sabe por quê? Eu escolhi cores primárias par
 
 Sim, elas têm a mesma claridade. Mas possuem uma luminância diferente. Sabe aquela escala tonal que eu espero que você tenha feito? Eu diria que o vermelho estaria perto do meio dela, um pouco mais pro lado escuro; já o verde estaria bem mais próximo da extremidade branca. Consegue ver? A luminância é a percepção de claridade de uma cor.
 
-Isso é importante de diversas maneiras. Imagine uma esfera de duas cores de luminâncias diferentes, como vermelho e amarelo. Ela é exatamente dividida no meio pelas suas cores. A sombra do lado amarelo é mais perceptivelmente clara que a sombra do lado vermelho. É possível de imaginar isso?
+Isso é importante de diversas maneiras. Imagine uma esfera de duas cores de luminâncias diferentes, como vermelho e amarelo. Ela é exatamente dividida no meio pelas suas cores. _A sombra do lado amarelo é mais perceptivelmente clara que a sombra do lado vermelho_. É possível de imaginar isso?
 
 {img-container} ![Esfera colorida, metade vermelha, metade amarela](${home_url}/assets/color-sphere.png)
 
